@@ -1,6 +1,8 @@
 /* eslint-disable camelcase */
-import { Loading } from '@/components/loading'
 import '@/styles/global.css'
+import '@/utils/dayjsLocaleConfig'
+
+import { Loading } from '@/components/loading'
 import {
   Inter_400Regular,
   Inter_500Medium,
